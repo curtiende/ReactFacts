@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import Main from './components/Main'
-import Navbar from './components/Navbar'
+import Main from './Main'
+import Navbar from './Navbar'
 
 export default function App(){
     return(
